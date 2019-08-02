@@ -9,6 +9,10 @@ VSCode
 1. 変数にカーソルを併せて `F2`
 2. 表示されたフィールドに新しい名前を入れて Enter
 
+### 備考
+
+- PHP では使えない。 TypeScript のみ？ JavaScript はいける？
+
 ## 文字列の全体置換
 
 1. `cmd + shift + H` を押す
